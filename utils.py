@@ -11,7 +11,7 @@ from torchvision.datasets import MNIST
 import torchvision.transforms as transforms
 from torch.utils.data import DataLoader
 
-cuda = True
+cuda = False
 DEVICE = torch.device("cuda" if cuda else "cpu")
 
 """
