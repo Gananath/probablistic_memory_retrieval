@@ -32,7 +32,7 @@ def model_acc(loader):
 
 dataset_path = "~/datasets"
 
-cuda = True
+cuda = False
 DEVICE = torch.device("cuda" if cuda else "cpu")
 
 
