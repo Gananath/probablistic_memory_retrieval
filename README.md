@@ -8,6 +8,7 @@ A proof of concept in probabilistic retrival of memory using neural networks.
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Gananath/probablistic_memory_retrieval}}
+  howpublished = {\url{https://github.com/Gananath/probablistic_memory_retrieval}},
+  doi = {10.5281/zenodo.5907674}
 }
 ```
