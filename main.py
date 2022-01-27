@@ -10,7 +10,7 @@ pt.manual_seed(2022)
 
 
 def model_acc(loader):
-    mlp.eval()
+    # mlp.eval()
     correct = 0
     total = 0
     with pt.no_grad():
@@ -33,7 +33,7 @@ def model_acc(loader):
 dataset_path = "~/datasets"
 
 cuda = False
-DEVICE = torch.device("cuda" if cuda else "cpu")
+DEVICE = pt.device("cuda" if cuda else "cpu")
 
 
 batch_size = 1
