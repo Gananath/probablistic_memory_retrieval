@@ -17,6 +17,6 @@ Read More [Probabilistic Memory Retrieval](https://gananath.github.io/prob_retri
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/Gananath/probablistic_memory_retrieval}},
-  doi = {10.5281/zenodo.5907674}
+  doi = {10.5281/zenodo.5915061}
 }
 ```
