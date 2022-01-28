@@ -2,6 +2,7 @@
 A proof of concept in probabilistic retrival of memory using neural networks.
 
 Read More [Probabilistic Memory Retrieval](https://gananath.github.io/prob_retrieval.html)
+![Probabilistic Memory Retrieval](probabilistic_memory_retreival.jpg)
 
 # Result
 - Trained: **3 Epochs**
