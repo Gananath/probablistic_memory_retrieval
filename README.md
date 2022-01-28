@@ -4,10 +4,10 @@ A proof of concept in probabilistic retrival of memory using neural networks.
 Read More [Probabilistic Memory Retrieval](https://gananath.github.io/prob_retrieval.html)
 
 # Result
-- Trained for 3 Epochs
-- Training Accuracy: 74%
-- Testing Accuracy: 73%
-- 
+- Trained: **3 Epochs**
+- Training Accuracy: **74%**
+- Testing Accuracy: **73%**
+
 ```
 @misc{gananath2016,
   author = {Gananath, R.},
