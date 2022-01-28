@@ -62,8 +62,8 @@ test_dataset = MNIST(
 
 # randomly select 100 samples from the dataset 
 # Please comment out below two lines if you want to train the model with full mnist
-train_dataset.data = train_dataset.data[pt.randperm(len(train_dataset))[0:100]]
-test_dataset.data = test_dataset.data[pt.randperm(len(test_dataset))[0:50]]
+# train_dataset.data = train_dataset.data[pt.randperm(len(train_dataset))[0:100]]
+# test_dataset.data = test_dataset.data[pt.randperm(len(test_dataset))[0:50]]
 
 train_loader = pt.utils.data.DataLoader(
     dataset=train_dataset, batch_size=batch_size, shuffle=True, **kwargs
