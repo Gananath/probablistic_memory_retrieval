@@ -32,7 +32,7 @@ def model_acc(loader):
 
 dataset_path = "~/datasets"
 
-cuda = False
+cuda = True
 DEVICE = pt.device("cuda" if cuda else "cpu")
 
 
